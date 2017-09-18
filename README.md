@@ -13,9 +13,8 @@
 
 **Tel:** 	+86-18137271612
 
-**Blog:**	http://www.cnblogs.com/greentomlee/
-
-	http://www.jianshu.com/u/afc16c889ede 
+**Blog:**	  [CnBlogs 博客园 ](http://www.cnblogs.com/greentomlee/ )
+                [jianshu 简书 ](http://www.jianshu.com/u/afc16c889ede) 
 
 # Education
 ---
