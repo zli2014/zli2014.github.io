@@ -57,16 +57,15 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
 # Programming Experience
 ---
 - **Participate in open source project( https://github.com/Leechen2014 )**
-  1.	TeamTalk is an instant message application, fixed historical information can not be viewed in Android (https://github.com/Leechen2014/TeamTalk ).
-  2.   Bug fixing for deep learning example of the tensorflow`s mobile (https://github.com/Leechen2014/tensorflow ).
-  3.   Modified the WeChat robots based on itChat with Python and published GitHub (https://github.com/Leechen2014/WeChatSend1 ).
+  1.	TeamTalk is an instant message application, fixed historical information can not be viewed in Android ([https://github.com/Leechen2014/TeamTalk](https://github.com/Leechen2014/TeamTalk) ).
+  2.   Bug fixing for deep learning example of the tensorflow`s mobile ([https://github.com/Leechen2014/tensorflow](https://github.com/Leechen2014/tensorflow) ).
+  3.   Modified the WeChat robots based on itChat with Python and published GitHub ([https://github.com/Leechen2014/WeChatSend1](https://github.com/Leechen2014/WeChatSend1) ).
 - **Translation production TensorFlow**
 
   *  I am currently working on the translation of the book ‘TensorFlow for Machine Intelligence’. Translated chapters have been published to [my blog](http://www.jianshu.com/nb/9303991).
 
 -  **Participation in the development of APPs and Web based Applications**
-  1. Key developer of healthy EHome APP, which is published in android market 
-(http://sj.qq.com/myapp/detail.htm?apkName=com.zzu.ehome.main.ehome ).
+  1. Key developer of healthy EHome APP, which is published in [android market](http://sj.qq.com/myapp/detail.htm?apkName=com.zzu.ehome.main.ehome ).
   2.  Developer of Zhengzhou City resource exchange information platform.
 
 # Research Interests
