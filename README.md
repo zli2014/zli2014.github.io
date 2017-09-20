@@ -45,13 +45,13 @@ Knowledge Network Model and Knowledge Service for Heterogeneous Health Data in M
 **3. Patents** | 
 1)A patent for a healthy electric chair (ZL 2015 2 1062660.9) |  
 2)A health pillow patent (ZL 2015 2 1062993.1) | 
-(Note: All patents can be checked at [http://cpquery.sipo.gov.cn/](http://cpquery.sipo.gov.cn/)) | 
+*(Note: All patents can be checked at [http://cpquery.sipo.gov.cn/](http://cpquery.sipo.gov.cn/))* | 
 **4. Software Copyright** |  
 Human Behavior Analysis System Based on Mobile Intelligent Terminal(No. 2016R11L337619) |  
 Zhengzhou University Graduation Design Management System(No. 2016R11L337616) |  
 Gas - Liquid - Solid Phase Retrieval System for Biochemical Reactor Based on Computer Vision(No.2016R11L337609) |  
 Gas Enterprise Information Management System based Final(No. 2016R11L337597) |  
-(Note: All software copyright can be check at [http://www.ccopyright.com.cn/index.php](http://www.ccopyright.com.cn/index.php) ) |
+*(Note: All software copyright can be check at [http://www.ccopyright.com.cn/index.php](http://www.ccopyright.com.cn/index.php) )* |
 
 
 # Programming Experience
