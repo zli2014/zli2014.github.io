@@ -100,4 +100,4 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
 
 # Hobbies
 ---
-Long-distance Running, Volleyball, basketball, Table Tennis, Reading
+Long-distance Running, Volleyball, Basketball, Table Tennis, Reading
