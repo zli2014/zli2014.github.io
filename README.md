@@ -1,3 +1,4 @@
+
 # Zhen Li
 ---
 
@@ -5,7 +6,8 @@
 
 **Date of Birth:** 07/01/1992
 
-**Add:** 	School of Software and Applications Technologies, Zhengzhou University
+**Add:** 
+        School of Software and Applications Technologies, Zhengzhou University
 	No. 97Wenhua Road, Jinshui District, Zhengzhou, Henan Province,
 	450000, P. R. China 
 
@@ -13,8 +15,8 @@
 
 **Tel:** 	+86-18137271612
 
-**Blog:**	  [CnBlogs 博客园 ](http://www.cnblogs.com/greentomlee/ )
-                [jianshu 简书 ](http://www.jianshu.com/u/afc16c889ede) 
+**Blog:**	[CnBlogs 博客园 ](http://www.cnblogs.com/greentomlee/ )
+                ~~[jianshu 简书 ](http://www.jianshu.com/u/afc16c889ede)~~
 
 # Education
 ---
@@ -27,12 +29,20 @@
  **School of Software and Applications Technologies, Zhengzhou University**	 | 2011/6-2015/9 Zhengzhou. China
  Bachelor of Computer and Technology  |   	
  Cumulative Grade Point Average(GPA) : 3.5/4.0  (Rank:5/275) *  |  
- 
+
+# Work Experience 
+---
+
+| xxx | 2019/06~2023.06 |
+|--|:--|
+| 1. Collaborative development of compute vision processing library. |  |
+| 2. Collaborative development of Neural Network Library. |  |
+
+
 # Research Experience 
 ---  
 
-
-Data Analysis and Computer Vision Group |  2015/9-Present 
+| Data Analysis and Computer Vision Group |  2015/09-2018.07 |
 ------|:----
 **1. Research Projects** |    
 Knowledge Network Model and Knowledge Service for Heterogeneous Health Data in Mobile Internet Environment |  
@@ -56,8 +66,9 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
 
 # Programming Experience
 ---
+
 - **Participate in open source project( https://github.com/Leechen2014 )**
-  1.	TeamTalk is an instant message application, fixed historical information can not be viewed in Android ([https://github.com/Leechen2014/TeamTalk](https://github.com/Leechen2014/TeamTalk) ).
+  1.   TeamTalk is an instant message application, fixed historical information can not be viewed in Android ([https://github.com/Leechen2014/TeamTalk](https://github.com/Leechen2014/TeamTalk) ).
   2.   Bug fixing for deep learning example of the tensorflow`s mobile ([https://github.com/Leechen2014/tensorflow](https://github.com/Leechen2014/tensorflow) ).
   3.   Modified the WeChat robots based on itChat with Python and published GitHub ([https://github.com/Leechen2014/WeChatSend1](https://github.com/Leechen2014/WeChatSend1) ).
 - **Translation production TensorFlow**
@@ -65,16 +76,17 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
   *  I am currently working on the translation of the book ‘TensorFlow for Machine Intelligence’. Translated chapters have been published to [my blog](http://www.jianshu.com/nb/9303991).
 
 -  **Participation in the development of APPs and Web based Applications**
-  1. Key developer of healthy EHome APP, which is published in [android market](http://sj.qq.com/myapp/detail.htm?apkName=com.zzu.ehome.main.ehome ).
+  1.  Key developer of healthy EHome APP, which is published in [android market](http://sj.qq.com/myapp/detail.htm?apkName=com.zzu.ehome.main.ehome ).
   2.  Developer of Zhengzhou City resource exchange information platform.
 
 # Research Interests
 ---
 
 - Deep learning applications for mobile terminals
-- Medical data analysis in Machine Learning
+- Medical data analysis by Machine Learning
 - Research on the Application of deep learning algorithms in Industry
-- Optimize the performance of deep learning algorithms 
+- Optimize the performance of deep learning algorithms
+- HPC(High Perfermence Compute)
 
 # Professional Skills
 - **Proficient in literature review, computer programming and normal laboratory technologies.**
@@ -88,16 +100,20 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
 # Extracurricular Activities and Awards
 ---
 
-1.	First prize of Software Design Competition, ZZU, May.,2017
-2.	President Scholarship, ZZU, Oct. ,2016
-3.	Award of Pacemaker to Merit Student, Dec. ,2016
-4.	Outstanding Graduates, ZZU, Apr. ,2015
-5.	Excellent Student Cadre, ZZU, Jan., 2015
-6.	Second prize of China College Student' Entrepreneurship Competition,2014
-7.	The First Prize Scholarship, Oct., 2014
-8.	The First Prize Scholarship, Oct., 2013
-9.	National Encouragement scholarship, Oct.,201
+1.  6th place in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019, ARP.,2018
+2.  National Postgraduate Application Design Competition(second prize), NOV., 2017
+3.	First prize of Software Design Competition, ZZU, May., 2017
+4.	President Scholarship, ZZU, Oct. , 2016
+5.	Award of Pacemaker to Merit Student, Dec. , 2016
+6.	Outstanding Graduates, ZZU, Apr. , 2015
+7.	Excellent Student Cadre, ZZU, Jan., 2015
+8.	Second prize of China College Student' Entrepreneurship Competition, 2014
+9.	The First Prize Scholarship, Oct., 2014
+10.	The First Prize Scholarship, Oct., 2013
+11.	National Encouragement scholarship, Oct., 2011
+12.	
+13.	
 
 # Hobbies
 ---
-Long-distance Running, Volleyball, Basketball, Table Tennis, Reading
+play Table Tennis, Badminton
