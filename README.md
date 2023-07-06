@@ -33,10 +33,10 @@
 # Work Experience 
 ---
 
-| xxx | 2019/06~2023.06 |
-|--|:--|
-| 1. Collaborative development of compute vision processing library. |  |
-| 2. Collaborative development of Neural Network Library. |  |
+ xxx  2019/06~2023.06 
+ 
+1. Collaborative development of compute vision processing library. 
+2. Collaborative development of Neural Network Library. 
 
 
 # Research Experience 
@@ -100,8 +100,8 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
 # Extracurricular Activities and Awards
 ---
 
-1.  6th place in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019, ARP.,2018
-2.  National Postgraduate Application Design Competition(second prize), NOV., 2017
+1.      6th place in ChaLearn Face Anti-spoofing Attack Detection Challenge@CVPR2019, ARP.,2018
+2.      National Postgraduate Application Design Competition(second prize), NOV., 2017
 3.	First prize of Software Design Competition, ZZU, May., 2017
 4.	President Scholarship, ZZU, Oct. , 2016
 5.	Award of Pacemaker to Merit Student, Dec. , 2016
@@ -111,8 +111,6 @@ Gas Enterprise Information Management System based Final(No. 2016R11L337597) |
 9.	The First Prize Scholarship, Oct., 2014
 10.	The First Prize Scholarship, Oct., 2013
 11.	National Encouragement scholarship, Oct., 2011
-12.	
-13.	
 
 # Hobbies
 ---
