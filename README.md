@@ -35,8 +35,9 @@
 
  xxx  2019/06~2023.06 
  
-1. Collaborative development of compute vision processing library. 
-2. Collaborative development of Neural Network Library. 
+1. Participate in the development of compute vision operator library. 
+2. Participate in the development of neural network operator library.
+3. 
 
 
 # Research Experience 
